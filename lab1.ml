@@ -183,8 +183,8 @@ to implement square properly.
 
 Test out your implementation of square by modifying the template
 code below to define exercise7 to be the square function applied
-to the list containing the elements 5. You'll want to
-replace the "0" with the correct function call.
+to the integer 5. You'll want to replace the "0" with the correct 
+function call.
 
 Thorough testing is important in all your work, and we hope to impart
 this view to you in CS51. Testing will help you find bugs, avoid
