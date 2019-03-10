@@ -221,7 +221,7 @@ to the function.
 ......................................................................*)
 
 let say_hello (name : string) : string =
-  if name = "Gabby" then "Hi" ^ name ^ ". Welcome home! How are you today?"
+  if name = "Gabby" | "gabby" then "Hi Gabby. Welcome home! How are you today?"
   else "Hi " ^ name ^". How are you today?"  ;;
 
 (*......................................................................
